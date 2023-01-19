@@ -1,1 +1,0 @@
-{"max_radius": 9, "radius_distribution": [0.2, 0.7], "no_init_touch": true, "min_distance": 5, "init_radius": 2, "t_size": 100, "x_size": 512, "number_of_particles": 512, "dim": 2}
