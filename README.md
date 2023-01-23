@@ -9,15 +9,13 @@ The package provides the source code used in the following scientific publicatio
 ## Main dependencies
 
 To be able to run the code, a python 3.7 installation with the following dependencies is required:
-* logging
+
 * tqdm
 * matplotlib
-* numpy>=1.18.1
+* numpy
 * scipy
-* typing
-* json
 * h5py
-* pathlib
+
 
 
 
